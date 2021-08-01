@@ -1,2 +1,2 @@
-# fundametals-in-django
+# fundamentals-in-django
 Praticando Django
